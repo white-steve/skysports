@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="readme:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/readme_jar</output-path>
+    <root id="root">
+      <element id="archive" name="readme.jar">
+        <element id="module-output" name="readme" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.28-bin" />
+      <element id="file-copy" path="$PROJECT_DIR$/../log4j/log4j-1.2.17.jar" />
+    </root>
+  </artifact>
+</component>

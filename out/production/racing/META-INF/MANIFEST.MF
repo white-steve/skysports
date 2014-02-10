@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: jaunt0.9.5.2.jar mysql-connector-java-5.1.28-bin.jar log4j
+ -1.2.17.jar jsoup-1.7.3.jar
+Main-Class: com.scallywag.Main
+

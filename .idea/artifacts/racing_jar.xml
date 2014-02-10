@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="racing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/racing_jar</output-path>
+    <root id="root">
+      <element id="archive" name="racing.jar">
+        <element id="module-output" name="racing" />
+      </element>
+      <element id="file-copy" path="F:/mysql/Connector J 5.1.28/mysql-connector-java-5.1.28-bin.jar" />
+      <element id="library" level="project" name="log4j-1.2.17" />
+      <element id="library" level="project" name="jsoup-1.7.3" />
+    </root>
+  </artifact>
+</component>
